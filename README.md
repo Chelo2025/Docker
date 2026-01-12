@@ -44,7 +44,11 @@ su -c "/usr/sbin/usermod -aG docker \"$(logname)\""
 docker run hello-world
 
 # Autor
-# Marcelo Martinez - Chelo2025
-# 🎓 Estudiante de Licenciatura en Tecnologías Digitales
-# 🛡️ Técnico Superior en Redes Informáticas
-# 🎓 Estudiante en Diplomado en Administración de Redes Linux con Orientación en Ciberseguridad y Ethical Hacking con Kali Linux
+
+Marcelo Martinez - Chelo2025
+
+🎓 Estudiante de Licenciatura en Tecnologías Digitales
+
+🛡️ Técnico Superior en Redes Informáticas
+
+🎓 Estudiante en Diplomado en Administración de Redes Linux con Orientación en Ciberseguridad y Ethical Hacking con Kali Linux
