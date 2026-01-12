@@ -39,7 +39,7 @@ su -c "systemctl --no-pager status docker && systemctl enable docker"
 
 su -c "/usr/sbin/usermod -aG docker \"$(logname)\""
 
-Nota: Para que este cambio sea efecto, debes cerrar tu sesión y volver a entrar.
+Nota: Para que este cambio sea valido, debes cerrar tu sesión y volver a entrar.
 
 # Prueba de instalación
 
