@@ -6,7 +6,7 @@ Estos contenedores incluyen todo lo necesario para que una aplicación funcione 
 
 ---
 
-## Instalación y uso (bloque único)
+## Instalación y uso
 
 ```bash
 # 1. Actualizar paquetes e instalar herramientas necesarias (ejecutar con usuario estándar)
