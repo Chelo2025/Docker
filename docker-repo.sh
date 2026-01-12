@@ -1,9 +1,10 @@
 #!/bin/bash
-# setup-docker-repo.sh — Agrega el repositorio oficial de Docker en Debian 12 (64 bits)
+# setup-docker-repo.sh — Agrega el repositorio oficial de Docker en Debian 13 (64 bits)
 # Autor: Marcelo César Martinez
 # Me gustan los emojis 🐳
 # Mi almuerzo: https://buymeacoffee.com/martinezmakp
-# Fecha: 20-08-2025
+# Fecha: 12-01-2026
+# FELIZ AÑO NUEVO - 2026
 # Uso en root: ./docker-repo.sh
 
 set -euo pipefail
