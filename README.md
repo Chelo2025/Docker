@@ -8,7 +8,7 @@ Estos contenedores incluyen todo lo necesario para que una aplicación funcione 
 
 ## Instalación y uso
 
-```bash
+
 # 1. Actualizar paquetes e instalar herramientas necesarias (ejecutar con usuario estándar)
 su -c "apt update && apt upgrade"
 su -c "apt install git -y"
